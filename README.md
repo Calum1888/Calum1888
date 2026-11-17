@@ -19,4 +19,4 @@ I'm a **Junior Data Scientist at MarketCast**, working on media and marketing-ef
 
 ## Get in touch
 
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-linkedin-url)
+- LinkedIn: [your-linkedin-url](www.linkedin.com/in/calum-regan)
